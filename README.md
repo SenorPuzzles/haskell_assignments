@@ -1,0 +1,1 @@
+Various exercises with haskell
